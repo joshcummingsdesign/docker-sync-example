@@ -14,4 +14,4 @@ An example of docker-sync in action!
 
 ## Known issues
 
-* You have to save a couple times because docker-sync reloads slower than browser-sync can inject css into the page
+* You have to save a couple times because browser-sync can inject css into the page faster than docker-sync can perform the rsync
