@@ -1,0 +1,15 @@
+{
+  "name": "docker-sync-example",
+  "version": "1.0.0",
+  "description": "An example of docker-sync in action",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Cummings",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.0.0"
+  }
+}
