@@ -1,8 +1,7 @@
-# This is our production compose file - not changed for docker-sync or similar
-
 version: "2"
 services:
   app-rsync:
+    container_name: appcode-nginx
     image: nginx:alpine
     ports:
-      - "8080:80"
+      - 8080:80

@@ -1,13 +1,8 @@
-# this is our development docker-compose building on top of the prodicker docker-compose, just mounting
-# the sync image - not redefining anything else
-
 version: "2"
 services:
   app-rsync:
     volumes:
       - appcode-rsync-sync:/usr/share/nginx/html:rw
-
-# that the important thing
 volumes:
   appcode-rsync-sync:
     external: true
