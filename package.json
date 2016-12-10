@@ -1,7 +1,7 @@
 {
   "name": "docker-sync-example",
   "version": "1.0.0",
-  "description": "An example of docker-sync in action",
+  "description": "An example of docker-sync in action!",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

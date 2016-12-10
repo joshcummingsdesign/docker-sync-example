@@ -1,5 +1,7 @@
 # Docker-Sync Example
 
+An example of docker-sync in action!
+
 ## Requirements
 
 * [docker-sync](https://github.com/EugenMayer/docker-sync/wiki/1.-Installation)
