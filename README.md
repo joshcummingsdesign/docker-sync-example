@@ -9,6 +9,6 @@ An example of docker-sync in action!
 ## Getting Started
 
 1. Run `npm install` to install dependencies
-1. Run `gulp` to compile assets
+1. Run `gulp` to compile sass
 2. Run `docker-sync-stack start` to start containers
-3. In another terminal window run `gulp watch` to watch for changes
+3. In another terminal window, run `gulp watch` to compile sass on the fly
